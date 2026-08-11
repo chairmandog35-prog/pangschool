@@ -1,0 +1,18 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+import java.util.Scanner;
+
+public class studentinfo {
+   public studentinfo() {
+   }
+
+   public static void main(String[] var0) {
+      Scanner var1 = new Scanner(System.in);
+      System.out.println("Input student information: ");
+      String var2 = var1.nextLine();
+      String var3 = var1.nextLine();
+      int var4 = var1.nextInt();
+      int var5 = var1.nextInt();
+      student var6 = new student(var2, var3, var4, var5);
+      var6.id();
+   }
+}
