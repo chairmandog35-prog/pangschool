@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PlantMonitoring",
+      "request": "launch",
+      "mainClass": "PlantMonitoring",
+      "projectName": "learningjava"
+    },
+    {
+      "type": "java",
+      "name": "plantmonitoring",
+      "request": "launch",
+      "mainClass": "plantmonitoring",
+      "projectName": "learningjava"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld"
+    }
+  ]
+}
